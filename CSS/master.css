@@ -1,9 +1,16 @@
-.nav{
-  background: #FFA400;
+.navbar{
+  background: darkred;
+  padding-left: 20%;
 }
 
-.cont{
+.bgred{
+  background: crimson;
+}
 
+.row{
+  padding-left: 20%;
+  padding-right: 20%;
+  font-size: 20px;
 }
 
 .Image-Scale{
