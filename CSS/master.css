@@ -8,8 +8,9 @@
 }
 
 .row{
-  padding-left: 20%;
-  padding-right: 20%;
+  background: #AE1833;
+  margin-left: 20%;
+  margin-right: 20%;
   font-size: 20px;
 }
 
